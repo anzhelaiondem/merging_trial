@@ -34,3 +34,7 @@ else:
 """
 Add docstring
 """
+
+"""
+Add another docstring
+"""
